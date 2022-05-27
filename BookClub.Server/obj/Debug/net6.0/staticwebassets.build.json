@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "swKilYJgG2bee3oJ/8ASqY1urQJ5oj7pP5MZdRO4IJ8=",
+  "Source": "BookClub.Server",
+  "BasePath": "_content/BookClub.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

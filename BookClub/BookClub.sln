@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "BookClub", "BookClub.esproj", "{DDE188EC-8D21-40E6-A10B-575FF8D7C9A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookClub.Server", "..\BookClub.Server\BookClub.Server.csproj", "{21E03926-7495-42CB-872D-87F24D57D932}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDE188EC-8D21-40E6-A10B-575FF8D7C9A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDE188EC-8D21-40E6-A10B-575FF8D7C9A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDE188EC-8D21-40E6-A10B-575FF8D7C9A6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DDE188EC-8D21-40E6-A10B-575FF8D7C9A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDE188EC-8D21-40E6-A10B-575FF8D7C9A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDE188EC-8D21-40E6-A10B-575FF8D7C9A6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{21E03926-7495-42CB-872D-87F24D57D932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21E03926-7495-42CB-872D-87F24D57D932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21E03926-7495-42CB-872D-87F24D57D932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21E03926-7495-42CB-872D-87F24D57D932}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98CBCAB4-7C32-407E-8F31-47A6B8A08F68}
+	EndGlobalSection
+EndGlobal
